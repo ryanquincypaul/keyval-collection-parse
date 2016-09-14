@@ -19,8 +19,6 @@ Output
 
 Works great with the list returned from the `read-csv` method in [clojure/data.csv](https://github.com/clojure/data.csv).
 
-# Method
-
 ## parse
 
 Creates a vector of maps using the items in the first vector as attributes matched with the values found in the subsequent vectors. The primary use case was string attributes and either string or numeric values, but the method is pretty open to what types (or even collections) it will allow as either attributes or values.
