@@ -37,14 +37,14 @@ usage: (parse collection)
 
 [Leiningen](https://github.com/technomancy/leiningen) dependency information:
 
-    [keyval-collection-parse "0.1.0"]
+    [keyval-collection-parse "0.1.0-SNAPSHOT"]
 
 [Maven](http://maven.apache.org/) dependency information:
 
     <dependency>
       <groupId>keyval-collection-parse</groupId>
       <artifactId>keyval-collection-parse</artifactId>
-      <version>0.1.0</version>
+      <version>0.1.0-SNAPSHOT</version>
     </dependency>
 
 # Test
