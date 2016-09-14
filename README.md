@@ -42,6 +42,7 @@ usage: (parse collection)
 [Maven](http://maven.apache.org/) dependency information:
 
     <dependency>
+      <groupId>keyval-collection-parse</groupId>
       <artifactId>keyval-collection-parse</artifactId>
       <version>0.1.0</version>
     </dependency>
