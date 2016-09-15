@@ -5,6 +5,9 @@ A Clojure library for parsing a list of an attribute vector and value vectors in
 # Example
 
 ```clj
+
+(use '[keyval-collection-parse.parse])
+
 (parse '(["Attribute1" "Attribute2" "Attribute3"] 
          ["Value1" "Value2" "Value3"]
          ["Value4" "Value5" "Value6"]))
