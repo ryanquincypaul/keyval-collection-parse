@@ -1,6 +1,6 @@
 # keyval-collection-parse
 
-A Clojure library for parsing a list vectors into a vector of maps.
+A Clojure library for parsing a list of vectors into a vector of maps.
 
 # Example
 
